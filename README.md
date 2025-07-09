@@ -57,18 +57,3 @@ POST /api/contacts
   "birthDate": "1990-01-01"
 }
 
-🛠️ Technologies Used
-ASP.NET Core Web API (.NET 7 or later)
-
-Entity Framework Core (Code First)
-
-SQL Server
-
-JWT Authentication
-
-Microsoft Identity PasswordHasher
-
-Fluent Validation (manually)
-
-Swagger (for testing)
-
